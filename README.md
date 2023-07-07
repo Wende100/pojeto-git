@@ -1,2 +1,2 @@
-# pojeto-git
+# projeto-git
 # teste 1
